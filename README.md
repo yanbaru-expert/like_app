@@ -1,24 +1,6 @@
-# README
+## やんばるエキスパート教材 モデルの関連付け
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- モデルの関連付け その1（1対多）
+  - https://www.yanbaru-code.com/texts/296
+- モデルの関連付け その2（多対多）
+  - https://www.yanbaru-code.com/texts/297
